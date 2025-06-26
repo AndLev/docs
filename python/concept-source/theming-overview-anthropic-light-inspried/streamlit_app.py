@@ -41,7 +41,7 @@ pages = [
     ),
     st.Page(
         "data.py",
-        title="Data",
+        title="Requests",
         icon=":material/table:"
     ),
     st.Page(
